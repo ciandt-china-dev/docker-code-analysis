@@ -1,7 +1,7 @@
 # docker-analysis
 A self-contained Docker image to run code review with no external dependencies.
 
--	[`Drupal` (*Dockerfile*)](https://github.com/ciandt-china-dev/docker-code-analysis/drupal/Dockerfile), for Drupal7, Drupal8
+-	[`Drupal` (*Dockerfile*)](https://github.com/ciandt-china-dev/docker-code-analysis/blob/master/drupal/Dockerfile), for Drupal7, Drupal8
 
 ## The purpose of this container image
 
